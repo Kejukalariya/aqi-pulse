@@ -184,7 +184,7 @@ project_aqi_pulse/
 ## Dashboard Screenshots
 
 ### Page 1 — National Overview
-![National Overview](scrrenshots/national_overview.png)
+![National Overview](screenshots/national_overview.png)
 
 ### Page 2 — City Deep Dive
 ![City Deep Dive](screenshots/city_deep_dive.png)
