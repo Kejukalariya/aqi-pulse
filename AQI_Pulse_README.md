@@ -197,5 +197,5 @@ project_aqi_pulse/
 
 ## Author
 **Keju**
-Data Analytics Portfolio Project 2
+Data Analytics Portfolio Project 
 Tools: Python | MySQL | Power BI
