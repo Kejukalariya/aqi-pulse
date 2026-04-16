@@ -184,16 +184,16 @@ project_aqi_pulse/
 ## Dashboard Screenshots
 
 ### Page 1 — National Overview
-![screenshots](national_overview.png)
+![National Overview](scrrenshots/national_overview.png)
 
 ### Page 2 — City Deep Dive
-![screenshots](city_deep_dive.png)
+![City Deep Dive](screenshots/city_deep_dive.png)
 
 ### Page 3 — Pollutant Deep Dive
-![screenshots](pollutant_deep_dive.png)
+![Pollutant Deep Dive](screenshots/pollutant_deep_dive.png)
 
 ### Page 4 — Health Risk Tracker
-![screenshots](health_risk_tracker.png)
+![Health Risk Tracker](screenshots/health_risk_tracker.png)
 
 ## Author
 **Keju**
